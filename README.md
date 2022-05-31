@@ -8,10 +8,10 @@ Practica: Maquetado de Pagina Web en CSS
 ## Este proyecto fue desarrollado para poner en practica HTML y CSS. 
 
 ### Repasaremos los siguientes conceptos:
-*Maquetacion con porcentajes
-*Media queries
-*Viewport
-*Adaptar web a cualquier pantalla
+* Maquetacion con porcentajes
+* Media queries
+* Viewport
+* Adaptar web a cualquier pantalla
 
 
 
